@@ -1,1 +1,1 @@
-Ruby on Rails test application
+Ruby on Rails first application
